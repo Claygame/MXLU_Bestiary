@@ -1,0 +1,1109 @@
+Heya everyone,Finally the Bestiary of MXLU is here.Its a BIG project and i have already finished most of it but there is still loads left to be done in it so i will update this thread with pieces of it whenever i can.
+All the material was typed and added by me and the monster data file that i received from Quirinus was from older patchs so some information might be missing or incorrect.It would be great if you could report them here and i will update them.
+
+[size=24][b][u]Thread Index[/u][/b][/size]
+[pre][navlink=Act 1][color=#BF0000]Act 1 Monsters[/color][/navlink], 	[navlink=Act 2][color=#BF0000]Act 2 Monsters[/color][/navlink], 
+ [navlink=Mundane Creatures]Mundane Creatures[/navlink]	 [navlink=Mundane Creatures A2]Mundane Creatures[/navlink]
+ [navlink=Elite Monsters]Elite Monsters[/navlink]	         [navlink=Elite Monsters A2]Elite Monsters[/navlink]
+ [navlink=Uber Monsters]Uber Monsters[/navlink]	         [navlink=Uber Monsters A2]Uber Monsters[/navlink]
+[sd=Ubers A1                 Ubers A2][navlink=Duncraig]Duncraig[/navlink]                [navlink=Quov Tsin]Quov Tsin[/navlink]
+[navlink=Ureh]Kingdom of Shadows[/navlink]      [navlink=Fauztinville]Fauztinville[/navlink]
+[navlink=Astrogha]Astrogha[/navlink]                [navlink=Twin Seas]Twin Seas[/navlink]
+[navlink=Vanity]Cathedral of Vanity[/navlink]     [navlink=Wretched Hive]Wretched Hive[/navlink]
+[navlink=Inarius Revenge]Inarius Revenge[/navlink]         [navlink=Creature of Flame]Creature of Flame[/navlink]
+[navlink=Butcher]Butcher[/navlink]                 [navlink=The Binding of Baal]The Binding of Baal[/navlink]
+[navlink=Legacy]Legacy of Blood[/navlink]         [navlink=Uldyssian]Uldyssian[/navlink]
+[navlink=Jday]Judgement Day[/navlink]
+[navlink=Optical]Infernal Machine[/navlink]
+[navlink=Triune]Triune[/navlink]
+[navlink=Cow]Cow Level[/navlink][/sd]
+
+[navlink=Act 3][color=#BF0000]Act 3 Monsters[/color][/navlink], 	[navlink=Act 4][color=#BF0000]Act 4 Monsters[/color][/navlink], 
+ [navlink=Mundane Creatures A3]Mundane Creatures[/navlink]	 [navlink=Mundane Creatures A4]Mundane Creatures[/navlink]
+ [navlink=Elite Monsters A3]Elite Monsters[/navlink]	         [navlink=Elite Monsters A4]Elite Monsters[/navlink]
+ [navlink=Uber Monsters A3]Uber Monsters[/navlink]	
+
+[navlink=Act 5][color=#BF0000]Act 5 Monsters[/color][/navlink], 	
+ [navlink=Mundane Creatures A5]Mundane Creatures[/navlink]	[navlink=Veteran Monsters][color=#BF0000]Veteran Monsters[/color][/navlink],
+ [navlink=Elite Monsters A5]Elite Monsters[/navlink]	        [navlink=Heroic Monsters][color=#BF0000]Heroic Monsters[/color][/navlink],
+ [navlink=Uber Monsters A5]Uber Monsters[/navlink]          [navlink=Special Monsters][color=#BF0000]Special Monsters[/color][/navlink]
+
+[navlink=Mon BBCode][b][u]Monster BBCode[/u][/b][/navlink][/pre]
+
+If you wanna know if you can get a monster as a reanimate, check my other thread here : 
+[url=http://goo.gl/D57a8o][b][size=18]Monsters Reanimate List[/size][/b][/url]
+
+[c]Monster stats are as they appear on Destruction difficulty.[/c]
+
+[b][u][size=18]General Information about Monsters[/size][/u]:[/b]
+1.Many curses does not work on monsters with [i]Invisible[/i]ability.(such as vindicate,etc)
+2.[i]Fire Enchanted[/i]  monsters explode on death dealing high damage to anyone in melee range.
+
+[hr][/hr]
+[align=center][navtarget]Act 1[/navtarget][size=24][color=#FF0000][b][u][c]Act 1[/c][/u][/b][/color][/size]
+
+[h3][fa]paw[/fa][navtarget]Mundane Creatures[/navtarget][u]Mundane Creatures[/u][fa]paw[/fa][/h3]
+[hr][/hr]
+[h3][formal]Abomination[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Abomination[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Barracks,Jail Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cold Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Does fast ranged attack but is not a major threat.[/size]
+
+[h3][formal]Acid Beast[/formal][/h3]
+[mon]AcidBeast[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs Lvl 4,Lost City,Harem Level 1-2,Palace Cellar Level 1-3
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Poison spitting dogs,easy to kill.[/size]
+
+[h3][formal]Assassin[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Assassin[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Tower Cellar Levels,Monastery Gate,Outer Cloister
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Invisibility[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These are invisible until they hit you but you can still see their shadows on the ground.[/size]
+
+[h3][formal]Black Knight[/formal][/h3]
+[size=9]Demon[/size]
+[mon]BlackKnight[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Cathedral,Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-Death Blossom
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Attacks in melee with Death Blossom skill.
+[fa]chevron-right[/fa]Death Blossom :melee attack that emits a fire splash.[/size]
+
+[h3][formal]Blood Rogue[/formal][/h3]
+[size=9]Demon[/size]
+[mon]BloodRogue[/mon]_[mon]BloodRogueTrident[/mon]_[mon]BloodRogueBow[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs Level 3-4,Lower Kurast,Kurast Bazaar,Upper Kurast
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Blitzkrieg[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak monster,you won’t have any problem.
+[b][u]Trivia[/u][/b]: Bow version only spawns in act 3.[/size]
+
+[h3][formal]Bone Mage[/formal][/h3]
+[size=9]Undead[/size]
+[mon]BoneMage[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Barracks,Jail Levels,Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cold Attack[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak trash gets rekt easily.[/size]
+
+[h3][formal]Burning Dead Mage[/formal][/h3]
+[size=9]Undead[/size]
+[mon]BurningDeadMage[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Barracks,Jail Levels,Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Fire Attack[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-If you wanna kill it then just sneeze at it and it will shatter.[/size]
+
+[h3][formal]Corpse Worm[/formal][/h3]
+[mon]CorpseWorm[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Burial Grounds
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Jungle Plague[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-His attack have poison and slows you down for a few seconds but its very weak.[/size]
+
+[h3][formal]Couatl[/formal][/h3]
+[mon]Couatl[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Black Marsh
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Throws a small shiny ball at you[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Their attack is pathetic just like their face.[/size]
+
+[h3][formal]Crystal Witch[/formal][/h3]
+[size=9]Demon[/size]
+[mon]CrystalWitch[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Tower Cellar Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Slows Target[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-It is actually hard to tell what they do because they just die so fast.
+Their main feature is probably the dramatic way in which they drop dead.[/size]
+
+[h3][formal]Cultist[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Cultist[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Black Marsh,Tamoe Highland,Monastery Gate,
+Outer Cloister,Barracks,Jail Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Multi-Hit Ranged Attack[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They come in a group of 3-4 and do a multi-hitting ranged attack which is not very strong but can be a threat in early game.[/size]
+
+[h3][formal]Dancing Light[/formal][/h3]
+[size=9]Undead[/size]
+[mon]DancingLight[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Dark Wood,Black Marsh,Tamoe Highland,Hole Level 1,
+Pit,Monastery Gate,Outer Cloister
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Charged Hit[/i],Electrobolt Spell
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They are invisible when they move until they attack but like all the other invisible enemies,you can see their shadow.
+They do lightning packed hits when they hit in melee.
+[fa]chevron-right[/fa][b]Electrobolt Spell[/b]:It's a weak lightning attack at a close range.[/size]
+
+[h3][formal]Dark Huntress[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DarkHuntressSword[/mon] [mon]DarkHuntress[/mon] [mon]DarkHuntressBow[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tristram,Dark Wood,Underground Passage,Hole Level 1,Black Marsh,
+Tamoe Highland,Pit,Tower Cellar Levels,Outer Cloister
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These are your fangirls so they come running to you when they see you but die as soon as they are interacted with.[/size]
+
+[h3][formal]Dark Rogue[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DarkRogue[/mon]_[mon]DarkRogueBow[/mon]_[mon]DarkRogue1Hand[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Stony Field,Underground Passage
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Crazy white chicks try to act tough but are actually weak.[/size]
+
+[h3][formal]Dark Stalker[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DarkStalker[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Bloodthrone
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Extra Fast[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These are minions of The Countess boss.They are fast moving and do decent damage on melee hits.
+They cast Deathstrike when they die which is a concentrated black smoke attack that easily kills anyone.
+[b]Bonus[/b]:You can go kill them on terror difficulty to finish the [url=http://docs.median-xl.com/MXLU_vXVc_Doc_v2.95/minigames.html]Witch Queen[/url]minigame.[/size]
+
+[h3][formal]Death Gnat[/formal][/h3]
+[mon]DeathGnat[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Stony Field,Dark Wood,Hole Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Stamina Drain,Open Wounds[/i],Lvl 2 Poison Flash
+[fa]info-circle[/fa][b][u]Info[/u][/b]-[i]Fucking mosquitoes[/i]they are everywhere,even in this game!.They are ofcourse weak and only cause annoyance.
+Their Open Wounds attack prevent you from healing temporarily and they steal all your stamina.
+[fa]chevron-right[/fa][b]Poison Flash[/b]=> Short ranged poison splash attack.[/size]
+
+[h3][formal]Defiler[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Defiler[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,Barracks
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Squad of their Shaman,they fight and die (easily) for his safety.Defiler Shaman will 
+resurrect them again and again to fight you.
+[b]Trivia[/b]:A reanimated Defiler will not be resurrected by a reanimated Defiler Shaman.
+[/size]
+
+[h3][formal]Defiler Shaman[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DefilerShaman[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,Barracks
+[fa]star[/fa][b][u]Skills[/u][/b]-Resurrect,Lvl 8 Vampire Firewall
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Kill him first otherwise he will just keep resurrecting Defilers and cast Firewall under your feet.
+Their FIrewall attack stack so if you stand in the same spot for long,it can do some damage.
+[fa]chevron-right[/fa][b]Vampire Firewall[/b]:Small line of fire below enemy’s feet that lasts for a few seconds.[/size]
+
+[h3][formal]Ent[/formal][/h3]
+[mon]Ent[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Burial Grounds
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Walking trees that do small melee damage but make up for it by making loud sounds on movement.[/size]
+
+[h3][formal]Fallen One[/formal][/h3]
+[size=9]Demon[/size]
+[mon]FallenOne[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil,Cold Plains,Cave
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Squad of their Shaman,they fight and die (easily) for his safety.
+Fallen Shaman will resurrect them again and again to fight you.
+[b]Trivia[/b]:A reanimated Fallen One will not be resurrected by a reanimated Fallen Shaman.[/size]
+
+[h3][formal]Fallen Shaman[/formal][/h3]
+[size=9]Demon[/size]
+[mon]FallenShaman[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil,Cold Plains,Cave
+[fa]star[/fa][b][u]Skills[/u][/b]-Resurrect,Lvl 6 Vampire Firewall
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Kill him first otherwise he will just keep resurrecting Fallen Ones and cast Firewall under your feet.
+Their FIrewall attack stack so if you stand in the same spot for long,it can do some damage.
+[fa]chevron-right[/fa][b]Vampire Firewall[/b]:Small line of fire below enemy’s feet that lasts for a few seconds.[/size]
+
+[h3][formal]Fiend[/formal][/h3]
+[mon]Fiend[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Blood Moor,Cave
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Charged Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They hang from the ceiling and jumps down on you if you go near them.Their attack have lightning damage.
+They will start flying away when they get low on health.[/size]
+
+[h3][formal]Flesh Huntress[/formal][/h3]
+[size=9]Demon[/size]
+[mon]FleshHuntress[/mon]_[mon]FleshHuntressBow[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Monastery Gate,Outer Cloister,Barracks,Cathedral,Catacombs Levels
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Easy experience is easy experience.[/size]
+
+[h3][formal]Flit[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Flit[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Blood Moor
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Their looks tell you everything about how strong they must be.[/size]
+
+[h3][formal]Gargoyle Trap[/formal][/h3]
+[mon]GargoyleTrap[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Hole lvl 2
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 6 Mon Bloodstar
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Stationary statues that cast spells at you from range.
+[fa]chevron-right[/fa][b]Mon Bloodstar[/b]:Casts a slow moving glowing ball which carries a good amount of fire damage but is easy to dodge.[/size]
+
+[h3][formal]Glowing Fungus[/formal][/h3]
+[size=9]Demon[/size]
+[mon]GlowingFungus[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Stony Field,Dark Wood,Underground Passage
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Charged Hit[/i],Totemic Omni Lightning
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They do a lightning type damage in melee range but are not very strong.
+[fa]chevron-right[/fa][b]Totemic Omni Lightning[/b]:Lightning attack that looks like multiple bolts of lightning traveling on floor.[/size]
+
+[h3][formal]Harlequin[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Harlequin[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Stony Field,Dark Wood,Cathedral,Tristram
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Invisibility,Teleport[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These invisible guys teleport around you with every melee attack they do which makes it tricky to hit them for melee chars.[/size]
+
+[h3][formal]Hidden One[/formal][/h3]
+[size=9]Undead[/size]
+[mon]HiddenOne[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Black Marsh,Tamoe Highland,Pit,Tower Cellar Levels,Jail Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Invisibility[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They are invisible until they attack but you can hear them flying around.[/size]
+
+[h3][formal]Horror Mage[/formal][/h3]
+[size=9]Undead[/size]
+[mon]HorrorMage[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Barracks,Jail Levels,Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Ranged Lightning attack[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Slightly stronger than skeleton mages,this one does a ranged lightning attack but die easily.[/size]
+
+[h3][formal]Hungry Dead[/formal][/h3]
+[size=9]Undead[/size]
+[mon]HungryDead[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Dark Wood,Hole Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Poison Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Walking dead people moving around biting and poisoning everyone.[/size]
+
+[h3][formal]Impaler[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Impaler[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Cathedral
+[fa]star[/fa][b][u]Skills[/u][/b]-Mon Slicer Blade,lvl 4 & 5 Mon Gamma
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They are weak but their Gamma attack might cause you trouble if you are surrounded by monsters.
+[fa]chevron-right[/fa][b]Mon Slicer blade[/b]:Casts a single rotating blade aimed at enemy.
+[fa]chevron-right[/fa][b]Gamma[/b]:Covers everything around himself in poison clouds which poison anyone who try to go near him.[/size]
+
+[h3][formal]Invader[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Invader[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Tristram,Stony Field,Dark Wood,Black Marsh,
+Underground Passage,Hole Level 1,Pit
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Squad of their Shaman,they fight and die (easily) for his safety.
+Invader Shaman will resurrect them again and again to fight you.
+[b]Trivia[/b]:A reanimated Invader will not be resurrected by a reanimated Invader Shaman.[/size]
+
+[h3][formal]Invader Shaman[/formal][/h3]
+[size=9]Demon[/size]
+[mon]InvaderShaman[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Tristram,Stony Field,Dark Wood,Black Marsh,
+Underground Passage,Hole Level 1,Pit
+[fa]star[/fa][b][u]Skills[/u][/b]-Resurrect,Lvl 7 Vampire Firewall
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Kill him first otherwise he will just keep resurrecting Invaders and cast Firewall under your feet.
+Their FIrewall attack stack so if you stand in the same spot for long,it can do some damage.
+[fa]chevron-right[/fa][b]Vampire Firewall[/b]:Small line of fire below enemy’s feet that lasts for a few seconds.[/size]
+
+[h3][formal]Kill Rat[/formal][/h3]
+[mon]KillRat[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Blood Moor
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Homing Spikes,Explodes on Death[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Its homing spikes are poisonous and it casts a nova of spikes when it dies.[/size]
+
+[h3][formal]Lizard King[/formal][/h3]
+[size=9]Demon[/size]
+[mon]LizardKing[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Dark Wood,Underground Passage
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Stone Curse[/i],Spellbind
+[fa]info-circle[/fa][b][u]Info[/u][/b]-It reduces your speed greatly for a short time by casting Spellbind but other than that it is not a big threat.
+[fa]chevron-right[/fa][b]Spellbind[/b]:Greatly reduces movement speed for a short time.[/size]
+
+[h3][formal]Protector[/formal][/h3]
+[mon]Protector[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Stony Field
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They will bitchslap you hard,literally.[/size]
+
+[h3][formal]Returned[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Returned[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,Barracks,Tristram
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak skeletons,will die easy.[/size]
+
+[h3][formal]Returned Archer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]ReturnedArcher[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,Barracks,Jail Levels,Tristram
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak skeletons with bow and arrows,dies easily.[/size]
+
+[h3][formal]Sasquatch[/formal][/h3]
+[mon]Sasquatch[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Black Marsh,Tamoe Highland,Pit,Outer Cloister
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Warning:Do Not Feed[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No matter how fluffy you think they are,they will attack if you try to pet them.[/size]
+
+[h3][formal]Scourge[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Scourge[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs Levels
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Squad of their Shaman,they fight and die (easily) for his safety.
+Scourge Shaman will resurrect them again and again to fight you.
+[b]Trivia[/b]:A reanimated Scourge will not be resurrected by a reanimated Scourge Shaman.[/size]
+
+[h3][formal]Scourge Shaman[/formal][/h3]
+[size=9]Demon[/size]
+[mon]ScourgeShaman[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-Resurrect,Lvl 11 Vampire Firewall
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Kill him first otherwise he will just keep resurrecting Scourges and cast Firewall under your feet.
+Their FIrewall attack stack so if you stand in the same spot for long,it can do some damage.
+[fa]chevron-right[/fa][b]Vampire Firewall[/b]:Small line of fire below enemy’s feet that lasts for a few seconds.[/size]
+
+[h3][formal]Skeleton[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Skeleton[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil,Blood Moor,Cold Plains,Cave
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Pile of Bones,literally.[/size]
+
+[h3][formal]Skeleton Archer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SkeletonArcher[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil,Blood Moor,Cold Plains,Cave
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Pile of Bones with bow and arrow,literally.[/size]
+
+[h3][formal]Sleeping Cave Snapper[/formal][/h3]
+[size=9]Demon[/size]
+[mon]SleepingCaveSnapper[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-(H) Tamoe Highland,Stony Field
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]AFK[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These are basically money bags for early leveling chars so they don't move or attack at all but drops a lot of gold.
+They have a high life regeneration so if you can’t deal enough damage,you won't be able to kill it.
+[b]Trivia[/b]:They only appear in Hatred difficulty.[/size]
+
+[h3][formal]Spike Fiend[/formal][/h3]
+[mon]SpikeFiend[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Pit
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Homing Spikes,Explodes on Death[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Casts poisonous Homing spikes at you and dies with a spike nova on death.[/size]
+
+[h3][formal]Stone Clan[/formal][/h3]
+[size=9]Demon[/size]
+[mon]StoneClan[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Jail Level 2-3,Catacombs Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-Blood Lord Frenzy
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They usually come in a pack of 4 with a caster among them who attacks from distance.
+[fa]chevron-right[/fa][b]Blood Lord Frenzy[/b]:Gives a small boost to attack and speed.[/size]
+
+[h3][formal]Stone Clan-Caster version[/formal][/h3]
+[size=9]Demon[/size]
+[mon]StoneClanCaster[/mon]
+
+[size=11]
+[fa]globe[/fa][b][u]Location[/u][/b]-Jail Level 2-3,Catacombs Levels
+[fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Life Lost Adds to Damage[/i],lvl 7 Corpse Explosion,lvl 3 Mon Pain Spirit
+[fa]info-circle[/fa][b][u]Info[/u][/b]-In the pack of Stone clans,this one stays behind and casts spells at you.It can be deadly
+in late game if you stand on top of the enemy corpses,kill it on sight.
+[fa]chevron-right[/fa][b]Pain Spirit[/b]:Casts a flying spirit at you that deals magic damage.
+[fa]chevron-right[/fa][b]Corpse Explosion[/b]:Explodes a corpse on ground and do decent damage in a small area.[/size]
+
+[h3][formal]Tarantula[/formal][/h3]
+[mon]Tarantula[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Stony Field,Burial Grounds
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Poison Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak spiders ruining reputations of spiders everywhere.[/size]
+
+[h3][formal]Wandering Sarandesh[/formal][/h3]
+[mon]WanderingSarandesh[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Stony Field
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Summons Flits[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-It does nothing else then summon a lot of Flits who then surrounds you and attacks you.[/size]
+
+[h3][formal]Zombie[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Zombie[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil,Blood Moor,Burial Grounds
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Poison Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-[i]BRAINNNSSSSsssss[/i][/size]
+[hr][/hr]
+[h3][fa]paw[/fa][navtarget]Elite Monsters[/navtarget][u]Elite Monsters[/u][fa]paw[/fa][/h3]
+[hr][/hr]
+
+[h3][formal]Bloodfire Rogue[/formal][/h3]
+[size=9]Demon[/size]
+[mon]BloodfireRogueBow[/mon] [mon]BloodfireRogueSpear[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Jail Level 2-3,Cathedral,Catacombs Level 1-2
+[fa]star[/fa][b][u]Skills[/u][/b]-Bow-Blindside,Phalanx.Spear-Takedown,Celerity
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These rogues are nasty chicks that comes in pack and can easily trap you to death with their sexy body..er..i mean attacks.
+[u]Bow version attacks[/u]:
+[fa]chevron-right[/fa][b]Blindside[/b]:An auto-aiming arrow at stuns.
+[fa]chevron-right[/fa][b]Phalanx[/b]:Summons a line of spirit archers.
+[u]Spear version attacks[/u]:
+[fa]chevron-right[/fa][b]Takedown[/b]:Charges at you and deals a stunning blow.
+[fa]chevron-right[/fa][b]Celerity[/b]:temporarily increases run speed and grants freeze immunity
+[/size]
+
+[h3][formal]Bonegrinder[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Bonegrinder[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Underground Passage,Tristram
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Poison Hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They deal high poison damage in melee hits and casts spike nova when they attack.[/size]
+
+[h3][formal]Cog[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Cog[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,Barracks,Jail Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Fast moving[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They always comes in a pack,surrounds you with high speed movement and does fast attack.
+Try separating them and then attack or find a way to attack them while moving and avoiding their attacks.
+If you kill them within spell range of Warforged Shaman,then step away from the corpse as soon as you can.[/size]
+
+[h3][formal]Corruptor[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Corruptor[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Dark Wood
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Poison hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Easy to kill but if you are low on poison resistance then you need to be careful with them.
+They  casts a Multi-hitting cloud of poison when it hits that can kill you if u get low on HP.[/size]
+
+[h3][formal]Corruptor Archer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]CorruptorArcher[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Tower Cellar Level 1-3
+[fa]star[/fa][b][u]Skills[/u][/b]-Ranged poison attack
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Their attack casts a Multi-hitting cloud of poison when it hits so having resistance would be cool.
+Also,since the poison cloud is multi-hitting,if you stayed within it when your HP is 1,it can kill you.[/size]
+
+[h3][formal]Frost Raptor[/formal][/h3]
+[size=9]Demon[/size]
+[mon]FrostRaptor[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Stony Field,Burial Grounds
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cold Damage[/i],Mon Lemures
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They do decent cold damage and can become a threat if you get surrounded by a pack of them.
+[fa]chevron-right[/fa][b]Mon Lemures[/b]:Multiple homing cold spirits in melee attack that comes after you[/size]
+
+[h3][formal]Lament[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Lament[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Hole Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Invisible[/i],Mon Static Lance
+[fa]info-circle[/fa][b][u]Info[/u][/b]-It's easy to kill them since they are weak but having some lightning resistance helps since they do decent damage.
+[fa]chevron-right[/fa][b]Mon Static Lance[/b]:Throws a bolt of lightning at you that shatters and do damage in a small area around its target.[/size]
+
+[h3][formal]Porkchop[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Porkchop[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tower Cellar Levels,Act 2 Sewers Levels
+[fa]star[/fa][b][u]Skills[/u][/b]-Porkulator,Engage Frenzy Mode
+[fa]info-circle[/fa][b][u]Info[/u][/b]-To escape their annoying pig transformation you have to kill it,run away from its area effect,or wait till its effect disappears.
+They go into Frenzy Mode when they get low on health but bcz their movement speed is very slow,you can easily kill them.
+[fa]chevron-right[/fa][b]Porkulator[/b]=> Transforms the enemy into a pig which greatly reduces enemy's overall speed.
+[fa]chevron-right[/fa][b]Engage Frenzy Mode[/b]=> Boosts attack speed and damage for a short bit.
+[b]Trivia[/b]:The reanimated version of them will also transform any random hostile monster into a pig.[/size]
+
+[h3][formal]Quill Bear[/formal][/h3]
+[mon]QuillBear[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains,Den of Evil,Cave
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Homing Spike Throw,Explodes on Death[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Their Homing Spike is easy to dodge but their true damaging skill is the small barrage of magic damage dealing spikes which they cast on death.
+Be careful if you are a cannon glass class (0 defense) and you find these guys in a pack,instakills op.[/size]
+
+[h3][formal]Shock Sting[/formal][/h3]
+[mon]ShockSting[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Black Marsh,Pit
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Shock Flash[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Fast moving bugs which do Lightning type damage but dies easily.
+[fa]chevron-right[/fa][b]Shock Flash[/b]-Much like Poison Flash attack,except this one does Lightning type damage.[/size]
+
+[h3][formal]Steelfur Titan[/formal][/h3]
+[mon]SteelfurTitan[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs Lvl 3-4
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Carebear[/i],Concentration
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They hit in melee and stuns on striking.
+[fa]chevron-right[/fa][b]Concentration[/b]-The Concentration foot aura increases physical damage.[/size]
+
+[h3][formal]Warforged Shaman[/formal][/h3]
+[size=9]Demon[/size]
+[mon]WarforgedShaman[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-Tamoe Highland,Monastery Gate,Outer Cloister,
+Barracks,Jail Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 4 Death Shards,Mon Maelstrom
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Warforged Shamans are strong when they are with their minions Cog,but without them they can only cast Maelstorm which wont do much damage if you have good defence.
+Their main attack Death shards which they use on dead cog’s bodies and do high damage so try to kill cogs away from him or kill him first.
+[fa]chevron-right[/fa][b]Death Shards[/b]:Explodes a nearby deadbody to cast a barrage of deadly spikes.
+[fa]chevron-right[/fa][b]Mon Maelstrom[/b]:A modified version of Assassin’s Maelstorm which does decent damage.[/size]
+[hr][/hr]
+[h3][fa]paw[/fa]Bosses [fa]paw[/fa][/h3]
+[hr][/hr]
+[h3][formal]Prince Albrecht[/formal][/h3]
+[size=9]Undead[/size]
+[mon]PrinceAlbrecht[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]globe[/fa][b][u]Location[/u][/b]-Den of Evil
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cold Enchanted,Spectral Hit[/i],Glacial Nova on death
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is the first-most Boss type you will encounter in this game.Easy to kill,he can only cause trouble for you on Hatred difficulty if he gets lucky.
+His arrows do cold damage and kills your movement speed and spectral hit does a big amount of damage.
+On death he casts a screen-wide Glacial Nova in an attempt to kill you as his dying wish.[/size]
+
+[h3][formal]Snotspill[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Snotspill[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]globe[/fa][b][u]Location[/u][/b]-Cold Plains
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Extra Fast[/i],Concentration
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He and his minions are very fast moving and does extra fast attack.
+He won't be a threat in higher difficulties but can cause you trouble in Hatred if his whole gang gets on top of you.
+[fa]chevron-right[/fa][b]Concentration[/b]-The Concentration foot aura increases physical damage.[/size]
+
+[h3][formal]Grimspike[/formal][/h3]
+[mon]Grimspike[/mon]
+
+[size=11][fa]ban[/fa][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Cave (Cold Plains)
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Extra Strong[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is quite weak and his “Extra Strong” damage is also very weak.
+He dies easily and you don’t really need to bother fighting him.[/size]
+
+[h3][formal]Blood Raven[/formal][/h3]
+[size=9]Demon[/size]
+[mon]BloodRaven[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Burial Ground
+[fa]star[/fa][b][u]Skills[/u][/b]-Nest,Quick Strike,Barrage,Fireball Sentry on death
+[fa]info-circle[/fa][b][u]Info[/u][/b]-The great Blood Raven is very weak and dies super-fast.
+She is not even worth explaining her skills.
+The on death skill is the only one you need to look out for but it is easy to avoid.[/size]
+
+[h3][formal]El Chupacabras[/formal][/h3]
+[size=9]Demon[/size]
+[mon]ElChupacabras[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]globe[/fa][b][u]Location[/u][/b]-Stony Field
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cursed,Explodes on Death[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Leader of Quill Bears,he throws spikes at you that are easy to dodge 
+but his Spike barrage on death can be deadly.[/size]
+
+[h3][formal]Griswold[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Griswold[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Tristram
+[fa]shield[/fa][b][u]Avoid[/u][/b]-70%(D)
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Cursed,Stone Skin[/i],Shower of Rocks
+[fa]info-circle[/fa][b][u]Info[/u][/b]-His Stone skin makes it harder to kill him if you have low damage.
+His most powerful attack is his Shower of Rocks that he cast when he hits you in melee.
+Make sure to get out of its range before it hits you otherwise a combo of Curse + SoR = major HP lost.
+Additionally,on Terror & Destruction he have an aura that disables use of any ranged skills.[/size]
+
+[h3][formal]Wrathraven[/formal][/h3]
+[mon]Wrathraven[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Dark Woods
+[fa]star[/fa][b][u]Skills[/u][/b]-Extra Strong,Mana Burn,Lightning Hit,Teleportation
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He guards the Scroll that you need to open the portal into Tristram.
+He is very weak and dies easily.[/size]
+
+[h3][formal]The Countess[/formal][/h3]
+[size=9]Demon[/size]
+[mon]TheCountess[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Tower Cellar lvl 4
+[fa]star[/fa][b][u]Skills[/u][/b]-Extra Fast,Cursed
+[fa]info-circle[/fa][b][u]Info[/u][/b]-She herself is not very strong when she is alive but she is guarded by her own minions and a bunch of Startled Witches that kill anyone who go near them.
+On death she casts Deathstrike which is a delayed attack that will 1-hit-KO.
+[b]Bonus[/b]:You can go kill her on terror difficulty to finish the [url=http://docs.median-xl.com/MXLU_vXVc_Doc_v2.95/minigames.html]Witch Queen[/url]minigame.[/size]
+
+[h3][formal]The Smith[/formal][/h3]
+[size=9]Demon[/size]
+[mon]TheSmith[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Barracks
+[fa]star[/fa][b][u]Skills[/u][/b]-Cursed,Fire Enchanted,Nightmare,Bloodlust
+[fa]info-circle[/fa][b][u]Info[/u][/b]-This ‘’mini-bos’’ is ultra strong for being a garbage one,be careful with it.
+He have very high speed and very high damage and can kill you in 1-2 hits easily.
+[b]Bonus[/b]:You can kill him to obtain a Horadric Malus which you can give to Charsi in town and she will transmute 1 item of yours for free with magic properties.
+[fa]chevron-right[/fa][b]Nightmare[/b]:Reduces target's overall speed and prevents healing.
+[fa]chevron-right[/fa][b]Bloodlust[/b]:Provides damage boost to self and nearby allies.[/size]
+
+[h3][formal]Moonbender[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Moonbender[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]globe[/fa][b][u]Location[/u][/b]-Jail Level 1
+[fa]star[/fa][b][u]Skills[/u][/b]-Extra Fast,Lightning Enchanted
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is weak and usually spawn in a location where you won't even run into him.[/size]
+
+[h3][formal]Blightfire[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Blightfire[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]globe[/fa][b][u]Location[/u][/b]-The Cathedral
+[fa]star[/fa][b][u]Skills[/u][/b]-Extra Strong,Fire Enchanted,Pain Spirit,Demonblood Aura
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Not very strong in damage or HP,but his skills works strongly against you in a crowd of enemies.
+[fa]chevron-right[/fa][b]Pain Spirit[/b]:Casts a magic damage dealing homing spirit at you.
+[fa]chevron-right[/fa][b]Demonblood Aura[/b]:Gives a HP and life replenish boost to self and nearby allies.[/size]
+
+[h3][formal]Andariel[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Andariel[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]globe[/fa][b][u]Location[/u][/b]-Catacombs lvl 4
+[fa]star[/fa][b][u]Skills[/u][/b]-Fire Throw,lvl 24 Meteor Shower,lvl 6 Hive,lvl 6 Apocalypse
+[fa]shield[/fa][b][u]Avoid[/u][/b]-25%(H),50%(T),75%(D)
+[fa]info-circle[/fa][b][u]Info[/u][/b]-This beauty cast Meteor Shower,kill her before that or get ready to avoid a full Meteor Shower on your screen.
+She is the act 1 boss so once you kill her,you can travel to next act.
+[fa]chevron-right[/fa][b]Fire Throw[/b]:It is literally as its name,a bunch of traps all around target that explodes and do fire damage.
+[fa]chevron-right[/fa][b]Meteor Shower[/b]:Brings down a shower of meteors dealing high fire damage.
+[fa]chevron-right[/fa][b]Hive[/b]:Periodically creates poisonous swarms when approached
+[fa]chevron-right[/fa][b]Apocalypse[/b]:Causes nearby enemies to burst into hellfire.
+[b]Bonus[/b]:Kill her on Terror or Destruction difficulty to obtain the Dogma of Suffering which is 1 of the [url=http://docs.median-xl.com/MXLU_vXVc_Doc_v2.95/enemy_tokens.html]Monster Tokens[/url].[/size]
+[hr][/hr]
+[navtarget]Uber Monsters[/navtarget][h3][fa]paw[/fa]Uber Monsters [fa]paw[/fa][/h3][hr][/hr]
+[size=18][navtarget]Duncraig[/navtarget][color=#008000][u][b][c]Duncraig-Uber Level[/c][/b][/u][/color][/size]
+[h3][formal]Slain Soul-Magic[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulMagic[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]star[/fa][b][u]Skills[/u][/b]-Powder keg
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-The most annoying monster in this uber.
+He throws a 50k Magic damage dealing Barrel which 1-hit-KO anyone in the explosion range.
+[/size]
+
+[h3][formal]Slain Soul-Poison[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulPoison[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]star[/fa][b][u]Skills[/u][/b]-Poison Bombs
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They throw 4 poison bombs at you which spreads a cloud of poison and deal very high poison damage.[/size]
+
+[h3][formal]Slain Soul-Lightning[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulLightning[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,they hit in melee and their attacks have lightning type damage.[/size]
+
+[h3][formal]Slain Soul-Cold[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulCold[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,they hit in melee and their attacks have Cold type damage.[/size]
+
+[h3][formal]Slain Soul-Fire[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulFire[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,they hit in melee and their attacks have Fire type damage.[/size]
+
+[h3][formal]Necromorb[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Necromorb[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Physical
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Flying balls of death!
+They throw attack in a straight line hitting everything in its way dealing high physical damage.
+If you are pure physical damage type char,i suggest getting another source of damage for these balls.[/size]
+
+[h3][formal]Fleshcutter-Mini Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulCold[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Cold
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,he hit in melee and his attacks have Cold type damage.
+Additionally he drops his sigil which is one of the five that u need to make Assur’s Bane Ring.[/size]
+
+[h3][formal]Eyegouger-Mini Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulMagic[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]star[/fa][b][u]Skills[/u][/b]-Dynamite
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He throws a 50k Magic damage dealing Barrel which 1-hit-KO anyone in the explosion range.
+Additionally he drops his sigil which is one of the five that u need to make Assur’s Bane Ring.[/size]
+
+[h3][formal]Spinecracker-Mini Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulLightning[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Lightning
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,he hit in melee and his attacks have Lightning type damage.
+Additionally he drops his sigil which is one of the five that u need to make Assur’s Bane Ring.[/size]
+
+[h3][formal]Skinrender-Mini Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulFire[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Fire
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-No special skills,he hit in melee and his attacks have Fire type damage.
+Additionally he drops his sigil which is one of the five that u need to make Assur’s Bane Ring.[/size]
+
+[h3][formal]Bonehexer-Mini Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SlainSoulPoison[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 40 Super DC
+[fa]shield[/fa][b][u]Avoid[/u][/b]-5%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He throw 4 poison bombs at you which spreads a cloud of poison and heal very high poison damage.
+Additionally he drops his sigil which is one of the five that u need to make Assur’s Bane Ring.[/size]
+
+[h3][formal]Assur-Uber Boss[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Assur[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 50 Flamefront,lvl 50 Cataclysm,lvl 10 Pounce,lvl 50 Flamestrike
+[fa]shield[/fa][b][u]Avoid[/u][/b]-50%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He pounces on you and do major fire type damage.Stack a lot of fire resist and he is easy.
+You need Purify skill to kill him which can be acquired by making a Assur’s Bane ring.
+[fa]chevron-right[/fa][b]Flamefront[/b]:Casts multiple exploding fireballs.
+[fa]chevron-right[/fa][b]Cataclysm[/b]:Nova of exploding fireballs.
+[fa]chevron-right[/fa][b]Pounce[/b]:Teleport to target and strike nearby enemies.
+[fa]chevron-right[/fa][b]Flamestrike[/b]:Calls down a blast of flame.[/size]
+
+[size=18][navtarget]Ureh[/navtarget][color=#008000][u][b][c]Kingdom of Shadows-Uber Level[/c][/b][/u][/color][/size]
+[h3][formal]Citizen[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Citizen[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All
+[fa]star[/fa][b][u]Skills[/u][/b]-Poison Hit,Bloodlust on Striking!
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Immortal zombies that you can't attack,all you can do is run as fast as you can.
+They hit hard and fast.Stacking up poison resistance helps a little.[/size]
+
+[h3][formal]Punishment Turret[/formal][/h3]
+[mon]PunishmentTurret[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 20 Punisher Spiral
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Stationary turrets that cast a whole load of punishers doing extremely heavy poison damage.
+[fa]chevron-right[/fa][b]Punisher Spiral[/b]:Casts punishers in every direction in a circle..[/size]
+
+[h3][formal]Darkwarden[/formal][/h3]
+[mon]Darkwarden[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]star[/fa][b][u]Skills[/u][/b]-Rolling Thunder
+[fa]info-circle[/fa][b][u]Info[/u][/b]-These big trolls have very high def and HP,if get engaged in fight with them,you will probably die.
+[fa]chevron-right[/fa][b]Rolling Thunder[/b]:Stuns and knockback enemy dealing heavy damage.
+[b]Trivia[/b]:Does not appear in Hatred difficulty.[/size]
+
+[h3][formal]Juris Khan,King of Ureh-Uber Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]JurisKhan[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Magic
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 40 Shadowstorm,Respawner Target,lvl 10 Cherub Strike
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Very notorious uber boss that can give you some major trouble with the skills he possess.
+[fa]chevron-right[/fa][b]Shadowstorm[/b]:Swarm of homing shadow bolts that inflict cold damage.
+[fa]chevron-right[/fa][b]Respawner Target[/b]:Spawns a random monster from the area on a target.
+[fa]chevron-right[/fa][b]Cherub Strike[/b]:retaliatory attack that manifests an angel that attacks enemies.[/size]
+
+[size=18][navtarget]Astrogha[/navtarget][color=#008000][u][b][c]Astrogha-Heroic Uber[/c][/b][/u][/color][/size]
+
+[h3][formal]Random Heroic Monster[/formal][/h3]
+Any random Heroic monster can appear
+
+[h3][formal]Darkling[/formal][/h3]
+[mon]Darkling[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Summoned by Spider Statue[/i]
+[fa]shield[/fa][b][u]Avoid[/u][/b]-25%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They die easily bcz of low HP but they have good damage and their avoid help them a lot.[/size]
+
+[h3][formal]Spider Statue[/formal][/h3]
+[mon]SpiderStatue[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-Heals Monsters on Death,lvl 6 Spawn Multi Darklings
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Summoned non-stop by Astrogha,these statue summons a lot of darklings and if you kill them than they have a chance to heal Astrogha to full life.[/size]
+
+[h3][formal]Astrogha-Uber Boss[/formal][/h3]
+[mon]Astrogha[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Randomly Loses Immunities,Poison
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 10 Frozen Orb Nova,Spider Statue,lvl 60 ND War Spirit,[i]Teleport on hit[/i]
+[fa]info-circle[/fa][b][u]Info[/u][/b]-This manwhore is a pain in the ass,he spawn totems that heals him if you destroy them,casts Frozen Orb Nova that freezes/kills you and spawns darklings that surrounds you.
+On top of all these,he have a chance to teleport away whenever he gets a hit so you have to keep chasing after him all over the uber.
+[fa]chevron-right[/fa][b]Frozen Orb Nova[/b]:Casts high cold damage dealing frozen orb that do damage in an area.
+[fa]chevron-right[/fa][b]Spider Statue[/b]:Summons Spider Statue who summon Darklings.
+[fa]chevron-right[/fa][b]ND War Spirit[/b]:Periodically emits spike novas that deal weapon damage.[/size]
+
+[size=18][navtarget]Vanity[/navtarget][color=#008000][u][b][c]Cathedral of Vanity-Uber Level[/c][/b][/u][/color][/size]
+
+[h3][formal]Nun of Vanity[/formal][/h3]
+[mon]NunOfVanity3[/mon] [mon]NunOfVanity2[/mon] [mon]NunOfVanity[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They have no special skills and die easily once the immunity aura is gone.[/size]
+
+[h3][formal]Crystal Ball[/formal][/h3]
+[mon]CrystalBall[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-Mana Burn,lvl 20 Spinning Lightning Flay
+[fa]info-circle[/fa][b][u]Info[/u][/b]-This spire is the shield generator of this uber and provide immunity from any damage type to every monster inside this uber.
+It can randomly teleport around when gets hit.
+[fa]chevron-right[/fa][b]Spinning Lightning Flay[/b]:A spinning lightning attack that kills anyone it touches.[/size]
+
+[h3]High Cleric Grey & High Cleric Dorian
+-Mini Boss-[/h3]
+[mon]HighClericGrey[/mon]-[mon]HighClericDorian[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 24 Mind Flay,lvl 20 Supernova,lvl 17 Shuriken Flurry,lvl 10 Doom
+[fa]shield[/fa][b][u]Avoid[/u][/b]-25%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Weak in HP and Def,he make it up with his spells.
+A combo of Doom + Shuriken + Mind Flay can be costly if you are careless.
+[fa]chevron-right[/fa][b]Mind Flay[/b]:Chaos energy beam that explodes on the target doing lightning type damage.
+[fa]chevron-right[/fa][b]Supernova[/b]:Gigantic nova that does more damage at close range.
+[fa]chevron-right[/fa][b]Shuriken Flurry[/b]:Throw multiple homing shuriken.
+[fa]chevron-right[/fa][b]Doom[/b]:Adds points to physical damage taken and pierces magic resistance.[/size]
+
+[h3][formal]Inarius-Uber Boss[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Inarius[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 25 & lvl 50 Guard Tower,Other Typhoon Sentry,lvl 40 Abyss,Mana Burn
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is strong and his spells will keep you on your toes while you are fighting in this uber.
+He will non-stop summon Guard Towers and his Sentry won't let you get close to him.
+[fa]chevron-right[/fa][b]Guard Tower[/b]:Summons a tower that shoots arrows at enemies.
+[fa]chevron-right[/fa][b]Typhoon Sentry[/b]:Trap that casts wind blasts that knock enemies around.
+[fa]chevron-right[/fa][b]Abyss[/b]:Surrounds target point with a spiral of frost.[/size]
+
+[size=18][navtarget]Inarius Revenge[/navtarget][color=#008000][u][b][c]Inarius' Revenge-Summoning Uber[/c][/b][/u][/color][/size]
+[h3][formal]Overlord[/formal][/h3]
+[mon]Overlord[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-Deathstrike on Death
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They do extremely high damage and have very high overall speed.
+Do not take them lightly.[/size]
+
+[h3][formal]Inarius-Uber Boss[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Overlord[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]shield[/fa][b][u]Avoid[/u][/b]-75%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is same as all the other Overlords except he have much higher HP and have avoid% to support him.[/size]
+
+[size=18][navtarget]Butcher[/navtarget][color=#008000][u][b][c]The Butcher-Summoning Uber[/c][/b][/u][/color][/size]
+[h3][formal]Butcher-Uber Boss[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Butcher[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]RUN![/i],Bloodlust
+[fa]shield[/fa][b][u]Avoid[/u][/b]-75%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-He is very fast moving and does Very high damage usually killing anyone in 1 hit.
+Keep your distance from him and use summons to break his immunity.
+[fa]chevron-right[/fa][b]Bloodlust[/b]:Increases damage and elemental damage of the party.[/size]
+
+[size=18][navtarget]Legacy[/navtarget][color=#008000][u][b][c]Legacy of Blood-Summoning Uber[/c][/b][/u][/color][/size]
+[h3][formal]Blood Golem[/formal][/h3]
+[mon]BloodGolem[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All
+[fa]star[/fa][b][u]Skills[/u][/b]-[i]Only Vulnerable after Attacking![/i],Immolation Bomb on Death
+[fa]shield[/fa][b][u]Avoid[/u][/b]-25%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-They have very high damage and can`t  be damaged until their attack hits someone.
+Use some summons to act as their punching bag.Their ’on death sentry’ is very strong.
+[fa]chevron-right[/fa][b]Immolation Bomb[/b]:Fireball sentry that explodes with a ring of fire.[/size]
+
+[h3][formal]Bartuc-Uber Boss[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Bartuc[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All
+[fa]star[/fa][b][u]Skills[/u][/b]-Summon Hostile Blood Golem,lvl 20 Storm Crows,lvl 20 Wychwind II,
+lvl 20 Other Banish,[i]Summoner Only Vulnerable after Using Wychwind Spell[/i]
+[fa]shield[/fa][b][u]Avoid[/u][/b]-75%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Very strong uber boss and is very tricky to kill.
+He can be damaged only after he has used his Wychwind Spell and until he casts it,
+he summons more Golems and they surround you quickly.
+[fa]chevron-right[/fa][b]Storm Crows[/b]:Throw multiple homing knives.
+[fa]chevron-right[/fa][b]Wychwind II[/b]:A modified version of Assassin’s skill.Knife that creates a rift field on impact,but weakens the user.
+[fa]chevron-right[/fa][b]Other Banish[/b]:A modified version of Banish skill.Reduced life of the cursed by a percentage.[/size]
+
+[size=18][navtarget]Jday[/navtarget][color=#008000][u][b][c]Judgement Day-Summoning Uber[/c][/b][/u][/color][/size]
+
+[h3][formal]Dark Nephalem[/formal][/h3]
+[mon]DarkNephalem[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All,Immortal
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 5 Enemy Divine App,lvl 10 N Superbeast
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Immortal and unclickable,you can’t do anything but stand around while they hit you to death.
+[fa]chevron-right[/fa][b]Enemy Divine App[/b]:Modified version of Pala’s Divine Apparition skill.Effect:teleport to target location and freeze enemies.
+[fa]chevron-right[/fa][b]N Superbeast[/b]:Modified version of Pala’s Stormlord skill.Effect:increases overall speeds.[/size]
+
+[h3][formal]Uldyssian,Dark Edyrem King[/formal][/h3]
+[mon]DarkUldyssian[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-All,Immortal
+[fa]star[/fa][b][u]Skills[/u][/b]-lvl 20 Enemy Divine App,lvl 25 N Superbeast
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Leader of the Dark Nephalem,he was granted the power to summon either Imperius or Malthael uber bosses 
+if an enemy takes too many melee hits to kill.
+He have 1% chance to summon one of the boss whenever he lands a melee hit.
+[fa]chevron-right[/fa][b]Enemy Divine App[/b]:Modified version of Pala’s Divine Apparition skill.Effect:teleport to target location and freeze enemies.
+[fa]chevron-right[/fa][b]N Superbeast[/b]:Modified version of Pala’s Superbeast skill.Effect:increases overall speed.[/size]
+
+[h3]Imperius & Malthael-Uber Boss[/h3]
+Imperious ---  Malthael
+[mon]Imperius[/mon]-[mon]Malthael[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-Poison
+[fa]star[/fa][b][u]Skills[/u][/b]-Spell Flurry,lvl 20 Beacon Target,lvl 20 Graveyard,lvl 50 Spawn Edyrem,Rathma’s Chosen
+[fa]shield[/fa][b][u]Avoid[/u][/b]-75%
+[fa]info-circle[/fa][b][u]Info[/u][/b]-Both the boss seems identical but are different.
+They both give charm but for special recipe you will have to kill them both.Try to keep the fight short and fast otherwise you will find yourself swarmed with Edryms.
+Additionally,when they get low on HP,they cast Rathma’s Chosen skill on themselves which makes them immune to all attacks but poison.
+[fa]chevron-right[/fa][b]Beacon Target[/b]:Modified version of Assa’s Beacon skill.Effect:periodically targets a nuclear strike at a random nearby location.
+[fa]chevron-right[/fa][b]Graveyard[/b]:Periodically shoots deadly spiked balls at enemies
+[fa]chevron-right[/fa][b]Rathma’s Chosen[/b]:Become invulnerable and deals massive magic damage.
+[fa]chevron-right[/fa][b]Spawn Edyrem[/b]:Self explanatory.
+[fa]chevron-right[/fa][b]Spell Flurry[/b]:Casts a Flurry of white magic dealing balls that deals decent damage.[/size]
+
+[size=18][navtarget]Optical[/navtarget][color=#008000][u][b][c]Infernal Machine-Dungeon Uber[/c][/b][/u][/color][/size]
+
+[h3][formal]Random Elite Monster[/formal][/h3]
+[size=11]Any random Elite monster can appear.[/size]
+
+[h3][formal]Infernal Machine-Uber Boss[/formal][/h3]
+[mon]InfernalMachine[/mon]
+
+[size=11][fa]ban[/fa][b][u]Immunity[/u][/b]-None
+[fa]star[/fa][b][u]Skills[/u][/b]-Respawner Target,Deathstrike on Hit
+[fa]info-circle[/fa][b][u]Info[/u][/b]-A stationary tower at the lower section of the uber which summons more elite monsters to fight for him.
+Additionally,it can cast Deathstrike whenever it gets struck by enemy,so keep moving around to avoid death from it.[/size][/align]

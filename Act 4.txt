@@ -1,0 +1,528 @@
+[align=center][navtarget]Act 4[/navtarget][size=24][color=#FF0000][b][u][c]Act 4[/c][/u][/b][/color][/size]
+
+[navtarget]Mundane Creatures A4[/navtarget][h3]Mundane Creatures[/h3]
+[hr][/hr]
+
+[h3][formal]Balrog[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Balrog[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 2 Mon Immolation Target
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Blood Warrior[/formal][/h3]
+[size=9]Undead[/size]
+[mon]BloodWarrior[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 3 & 4 Mon Zen Bolt, lvl 2 Bloodstorm
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Bronze Titan[/formal][/h3]
+[mon]BronzeTitan[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Stun Attack, Aura Enchanted[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Burning Dead Sorcerer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]BurningDeadSorcerer[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Chaos Caster[/formal][/h3]
+[size=9]Undead[/size]
+[mon]ChaosCaster[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 1 Mon Slayer Bolt
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Chaos Knight[/formal][/h3]
+[size=9]Undead[/size]
+[mon]ChaosKnight[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 5 Mon Zen Bolt
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Dark Counselor[/formal][/h3]
+[size=9]Undead[/size]
+[mon]DarkCounselor[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 4 Venomous Spirit, lvl 1 Wrath
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Dark Knight[/formal][/h3]
+[size=9]Undead[/size]
+[mon]DarkKnight[/mon] [mon]DarkKnightSword[/mon] [mon]DarkKnightMace[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Dark Magistrate[/formal][/h3]
+[size=9]Undead[/size]
+[mon]DarkMagistrate[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 4 Venomous Spirit, lvl 1 Wrath
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Dark Toad[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DarkToad[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Stun Attack, Arcane Fury![/i], lvl 1 Mon Magic Missiles
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Death Spitter[/formal][/h3]
+[size=9]Demon[/size]
+[mon]DeathSpitter[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Eats and Spits Explosive Corpses[/i], lvl 3 RegurgitatorEat
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Devourer[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Devourer[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Eats and Spits Explosive Corpses[/i], lvl 3 RegurgitatorEat
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Gold Titan[/formal][/h3]
+[mon]GoldTitan[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Stun Attack, Aura Enchanted[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Gravedigger[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Gravedigger[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Eats and Spits Explosive Corpses[/i], lvl 3 RegurgitatorEat
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Guardian[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Guardian[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 2 Mon Immolation Target
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Hell Knight[/formal][/h3]
+[size=9]Undead[/size]
+[mon]HellKnight[/mon] [mon]HellKnightSword[/mon] [mon]HellKnightMace[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Hell Stone[/formal][/h3]
+[size=9]Demon[/size]
+[mon]HellStone[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Fire Hit[/i], lvl 3 Mon Multi Rock
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Horror Sorcerer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]HorrorSorcerer[/mon] [mon]HorrorSorcerer2[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Fire Hit[/i], lvl 3 Mon Multi Rock
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Incarnation[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Incarnation[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 1 Mon Slayer Bolt
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Knight of Famine[/formal][/h3]
+[size=9]Undead[/size]
+[mon]KnightOfFamine[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Bloody Foothills
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Aura Enchanted, Heals on Striking[/i], lvl 1 Self-resurrect, lvl 1 Charge
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Knight of Pestilence[/formal][/h3]
+[size=9]Undead[/size]
+[mon]KnightOfPestilence[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Bloody Foothills
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Aura Enchanted, Slows Target[/i], lvl 1 Self-resurrect, lvl 1 Charge
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Knight of War[/formal][/h3]
+[size=9]Undead[/size]
+[mon]KnightOfWar[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Bloody Foothills
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Aura Enchanted, Crushing Blow[/i], lvl 1 Self-resurrect, lvl 1 Charge
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Lacuni Soldier[/formal][/h3]
+[mon]LacuniSoldierWhip[/mon] [mon]LacuniSoldier[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Fire Hit, Mark of the Wild[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Lacuni Priestess[/formal][/h3]
+[mon]LacuniPriestess[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Aura Enchanted, Earth Enchanted[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Lava Lord[/formal][/h3]
+[size=9]Demon[/size]
+[mon]LavaLord[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Fire Hit[/i], lvl 2 Mon Multi Rock
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Nosferatu[/formal][/h3]
+[size=9]Undead[/size]
+[mon]Nosferatu[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 2 Mon Slicer Blade, lvl 6 & 7 Mon Gamma
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Pit Beast[/formal][/h3]
+[mon]PitBeast[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Red Storm[/formal][/h3]
+[size=9]Demon[/size]
+[mon]RedStorm[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Lightning Hit, Trapped Corpse![/i], lvl 3 Mon Red Lightning
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Soul Flayer[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SoulFlayer[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 1 Mon Slayer Bolt
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Soul Warrior[/formal][/h3]
+[size=9]Undead[/size]
+[mon]SoulWarrior[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 3 & 4 Mon Zen Bolt, lvl 2 Mon Soulstorm
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Stained Glass Window[/formal][/h3]
+[mon]StainedGlassWindow[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - None
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]This Window Has Crashed[/i] 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Tortured Soul[/formal][/h3]
+[size=9]Undead[/size]
+[mon]TorturedSoul[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 6 Electrobolt Spell
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Trapped Soul[/formal][/h3]
+[mon]TrappedSoul[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - None
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Twisted Soul[/formal][/h3]
+[size=9]Demon[/size]
+[mon]TwistedSoul[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Cold Hit[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[navtarget]Elite Monsters A4[/navtarget][h3]Elite Monsters[/h3]
+[hr][/hr]
+[h3][formal]Armageddon Knight[/formal][/h3]
+[size=9]Undead[/size]
+[mon]ArmageddonKnight[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 20 Mon Zen Bolt
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Ash Troll[/formal][/h3]
+[size=9]Demon[/size]
+[mon]AshTroll[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Umad?[/i], lvl 5 Even More Amazing Grace, lvl 1 Mon Engage Frenzy Mode
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Basilisk[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Basilisk[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Poison
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair, River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 5 Mon Spellbind
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Fallen Sarandesh[/formal][/h3]
+[mon]FallenSarandesh[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Fireblood[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Fireblood[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 3 RegurgitatorEat
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Gothi[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Gothi[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Poison
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned, River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 6 & 11 Wyrd
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Hellcat[/formal][/h3]
+[mon]Hellcat[/mon] [mon]Hellcat2[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Hellcat Priestess[/formal][/h3]
+[mon]HellcatPriestess[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Heretic[/formal][/h3]
+[mon]Heretic[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Horned Leviathan[/formal][/h3]
+[size=9]Demon[/size]
+[mon]HornedLeviathan[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - Blink
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Knight of Death[/formal][/h3]
+[size=9]Undead[/size]
+[mon]KnightOfDeath[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Plains of Despair, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 1 Self-resurrect, lvl 1 Charge
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Living Flame[/formal][/h3]
+[size=9]Undead[/size]
+[mon]LivingFlame[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, City of the Damned
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 4 Flamefront
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Mind Warrior[/formal][/h3]
+[size=9]Undead[/size]
+[mon]MindWarrior[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 4 & 5 Mon Zen Bolt, lvl 14 Mon Tempest Storm
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Mutilator[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Mutilator[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - City of the Damned, River of Flame, Chaos Sanctuary, Bloody Foothills
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 14 Mon Crushpide
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Thunderbolt[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Thunderbolt[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Trouper[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Trouper[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Poison
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - Blink
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Ulfhedinn[/formal][/h3]
+[mon]Ulfhedinn[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - Outer Steppes, Plains of Despair
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Void Archon[/formal][/h3]
+[size=9]Undead[/size]
+[mon]VoidArchon[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Magic
+[fa]globe[/fa] [b][u]Location[/u][/b] - River of Flame, Chaos Sanctuary
+[fa]star[/fa] [b][u]Skills[/u][/b] - 
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3]Bosses[/h3]
+[hr][/hr]
+[h3][formal]Bluehorn the Flayer[/formal][/h3]
+[size=9]Demon[/size]
+[mon]BluehornTheFlayer[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Extra Strong, Magic Resist[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Doomcloud[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Doomcloud[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Extra Fast, Lightning Enchanted[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Sinwar of the Storm[/formal][/h3]
+[size=9]Demon[/size]
+[mon]SinwarOfTheStorm[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Lightning
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Lightning Enchanted, Spectral Hit[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Viletouch[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Viletouch[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Fire
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Cursed, Fire Enchanted[/i]
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Izual[/formal][/h3]
+[mon]Izual[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - Cold
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 17 Hailstorm
+Avoid - 75% avoid
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Hephasto The Armorer[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Hephasto[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - None
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - [i]Cursed, Spectral Hit[/i], lvl 1 Mon Force Prison, lvl 1 Mon Engage Frenzy Mode
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size]
+
+[h3][formal]Diablo[/formal][/h3]
+[size=9]Demon[/size]
+[mon]Diablo[/mon]
+
+[size=11][fa]ban[/fa] [b][u]Immunity[/u][/b] - None
+[fa]globe[/fa] [b][u]Location[/u][/b] - 
+[fa]star[/fa] [b][u]Skills[/u][/b] - lvl 2 Mon Respawner, lvl 2 Mon Longer BW, lvl 75 Flamestrike, lvl 40 Bloodstorm
+Avoid - 75% avoid
+[fa]info-circle[/fa] [b][u]Info[/u][/b] - [/size][/align]
