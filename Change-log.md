@@ -1,4 +1,4 @@
-XVc to XVrIII changes
+XVc to XVI.1 changes
 1. Griswold no longer have avoid.
 2. Sand raider, Prowler Priestess, Gargoyle, Centaur & Genie can now appear in Harem Level 1 also.
 3. Fata Morgana & Undead Vulture can no longer be found in Harem Lvl 1
